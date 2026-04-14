@@ -1,0 +1,45 @@
+# Luffy Knowledge Base — .gitignore
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# 临时文件
+*.tmp
+*.log
+*.lock
+
+# GitHub credentials
+.git-credentials
+
+# 敏感信息
+*.key
+*.pem
+secrets/
+credentials/
+
+# 排除子模块各自的历史
+# （初次导入时不追踪历史）
+
+# 大型二进制文件
+*.zip
+*.tar
+*.tar.gz
+*.mp4
+*.pdf
+
+# 缓存目录
+.cache/
