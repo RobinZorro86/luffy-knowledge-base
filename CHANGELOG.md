@@ -6,7 +6,13 @@
 
 ## [Unreleased]
 
-*暂无未发布的变更，所有已完成的变更均已发布到 main 分支。*
+### Added
+
+- `CONTRIBUTING.md` — 完整的贡献规范：commit格式/SOP编写/Skill编写/冲突处理
+
+### Changed
+
+- `README.md` — 完整规范化：架构图/同步机制/文档索引/关联系统
 
 ---
 
