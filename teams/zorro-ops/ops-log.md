@@ -1,3 +1,87 @@
+## 📋 入库质量验证报告 — 2026-04-15 20:01
+
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+
+---
+**汇总**：✅ 3 | ⚠️ 0 | ❌ 0
+
+## 🔧 Zorro-Ops 每日自检报告 — 2026-04-15 09:15
+
+### Camofox（端口9377）
+- 状态：✅ 正常
+- 详情：`{"running":true,"tabs":[]}`
+
+### Docker
+- 状态：⚠️ 注意（容器列表为空）
+- 详情：0 个运行中的容器，docker 命令可用
+
+### Disk Space
+- 状态：✅ 正常（3%）
+- 详情：/ 3% used, /home 3% used
+
+### Hermes Cron
+- 状态：✅ 有 2 个活跃任务
+- 详情：hermes-weekly-maintenance（周六03:00）、luffy-biweekly-evolution（周日05:00）
+
+### X Cookies
+- 状态：✅ 正常（15个token）
+- 详情：auth_token present: True
+
+---
+下次自检：明天 09:00
+
+## 🔧 Zorro-Ops 每日自检报告 — 2026-04-15 09:10
+
+### Camofox（端口9377）
+- 状态：✅ 正常
+- 详情：`{"running":true,"tabs":[]}`
+
+### Docker
+- 状态：⚠️ 注意（容器列表为空）
+- 详情：0 个运行中的容器，docker 命令可用
+
+### Disk Space
+- 状态：✅ 正常（3%）
+- 详情：/ 3% used, /home 3% used
+
+### Hermes Cron
+- 状态：❌ 异常
+- 详情：`hermes_cron_check_failed` — hermes 命令或 venv 问题
+
+### X Cookies
+- 状态：✅ 正常
+- 详情：15 tokens, auth_token present: True
+
+---
+下次自检：明天 09:00
+
+## 🔧 Zorro-Ops 每日自检报告 — 2026-04-15 09:00
+
+### Camofox（端口9377）
+- 状态：✅ 正常
+- 详情：`{"running":true,"tabs":[]}`
+
+### Docker
+- 状态：⚠️ 注意（容器列表为空）
+- 详情：0 个运行中的容器，docker 命令可用
+
+### Disk Space
+- 状态：✅ 正常（3%）
+- 详情：/ 3% used, /home 3% used
+
+### Hermes Cron
+- 状态：❌ 异常
+- 详情：`hermes_cron_check_failed` — hermes 命令或 venv 问题
+
+### X Cookies
+- 状态：✅ 正常
+- 详情：15 tokens, auth_token present: True
+
+---
+**下次自检**：明天 09:00
+
 ## 📋 入库质量验证报告 — 2026-04-14 20:00
 
 ✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
