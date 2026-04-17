@@ -31,7 +31,7 @@ version: v1.1
 | Docker | `docker ps 2>/dev/null` | 容器列表 | 记录 ⚠️ |
 | 磁盘空间 | `df -h / /home` | 使用率 <80% | 使用率 >80% 记录 ⚠️，>95% 立即通知 Luffy |
 | Hermes Cron | `hermes cron list` | 任务数量正常 | 记录活跃/失败数量 |
-| X Cookies | 检查文件存在且 token 有效 | 有效 | 记录 ⚠️ |
+|| X Cookies | 检查 `~/.local/share/baoyu-skills/x-to-markdown/cookies.json` 中 auth_token 是否为40位有效值（非占位符） | 有效 | 立即执行 `bash ~/.hermes/scripts/sync-x-cookies.sh` 同步 Camofox cookie |
 
 自检结果写入：`~/wiki/hermes/teams/zorro-ops/ops-log.md`
 
