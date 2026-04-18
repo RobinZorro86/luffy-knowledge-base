@@ -1,3 +1,28 @@
+## 📋 入库质量验证报告 — 2026-04-18 20:00
+
+❌ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 不通过
+   ❌ 缺字段：category
+✅ `twitter/articles/2026-gbrain-garry-tan-knowledge-brain.md` — 通过
+✅ `twitter/articles/2026-harness-engineering-complete-guide.md` — 通过
+✅ `twitter/articles/2026-making-claude-second-brain.md` — 通过
+❌ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 不通过
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』引言块
+❌ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W16.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+
+---
+**汇总**：✅ 3 | ⚠️ 0 | ❌ 4
+
 ## 📋 入库质量验证报告 — 2026-04-17 20:00
 
 ❌ `twitter/amasad/2044235589730611353.md` — 不通过
@@ -258,6 +283,31 @@
 ### Hermes Cron
 - 状态：✅ 有 2 个活跃任务
 - 详情：hermes-weekly-maintenance (2026-04-18T03:00)、luffy-biweekly-evolution (2026-04-19T05:00)
+
+### X Cookies
+- 状态：✅ 正常（15个token）
+- 详情：auth_token present: True
+
+---
+下次自检：明天 09:00
+
+## 🔧 Zorro-Ops 每日自检报告 — 2026-04-18 09:00
+
+### Camofox（端口9377）
+- 状态：✅ 正常
+- 详情：`{"running":true,"tabs":[]}`
+
+### Docker
+- 状态：✅ 正常
+- 详情：1个容器运行中（camofox）
+
+### Disk Space
+- 状态：✅ 正常（3%）
+- 详情：/dev/sdd 1007G总量，已用22G
+
+### Hermes Cron
+- 状态：✅ 有 2 个活跃任务
+- 详情：hermes-weekly-maintenance（周六03:00），luffy-biweekly-evolution（周日05:00）
 
 ### X Cookies
 - 状态：✅ 正常（15个token）

@@ -73,14 +73,37 @@ Zorro-Edu AI 课程体系
 
 ## 当前状态
 
-- 🆕 **刚启动**：课程框架 v0.1 草稿完成
-- ⏳ **等待 Robin**：提供 6 个细化需求确认
+- 📦 **知识库已就绪**：4份核心PDF + 6份摘要 + 18页PPT教材
+- 🔗 **知识交接文档**：`~/wiki/zorro/knowledge/research/ZORRO-EDU-HANDOFF-2026-04-18.md`
+- 📖 **AI素养四阶段框架**：整合4份PDF的自研框架，已沉淀为18页PPT
+
+### 知识库速查
+
+| 资源 | 路径 |
+|------|------|
+| 完整知识交接文档 | `~/wiki/zorro/knowledge/research/ZORRO-EDU-HANDOFF-2026-04-18.md` |
+| AI素养四阶段PPT | `~/ai-literacy-ppt/output/AI素养认知学习指南-完整版.pptx` |
+| 核心摘要（Stage 1-2） | `~/wiki/research/AI教育/素材库/06-textbooks-summary-2026.md` |
+| 核心摘要（Stage 2-3） | `~/wiki/research/AI教育/素材库/05-research-insights-2026.md` |
+| 真实案例摘要 | `~/wiki/research/AI教育/素材库/07-future-is-now-summary.md` |
+| 完整素材索引 | `~/wiki/research/AI教育/素材库/AI素养知识库总索引.md` |
+| Robin家儿童方案 | `~/wiki/zorro/zorro-edu/ai-Enlightenment-research.md` |
+| 本阶段复盘 | `~/wiki/research/AI教育/阶段复盘-2026-04-18.md` |
+
+### AI素养四阶段框架（核心框架）
+
+| 阶段 | 核心问题 | 关键概念 | 主要来源 |
+|------|---------|---------|---------|
+| Stage 1 | AI是什么？ | 四大课程支柱、LLM统计本质 | 爱丁堡大学 |
+| Stage 2 | AI会犯什么错？ | 幻觉、偏见、六大弱点、真实案例 | 爱丁堡+Milne |
+| Stage 3 | 怎么用才有效？ | SAFE框架、脚手架撤退、17%拐杖效应 | 弗吉尼亚+Stanford |
+| Stage 4 | 怎么教才合理？ | Fink逆向设计、6-9/10-12/13+岁路径 | 弗吉尼亚大学 |
 
 ### 下一步行动
-建议从 **L1 模块 1**（身边的 AI）启动，理由：
-1. 最贴近儿童日常，最容易引发兴趣
-2. 内容最成熟（类比素材丰富）
-3. 交付物最简单（图形化内容为主）
+建议从 **Stage 4细化** 启动，即基于四阶段框架，针对6岁+10岁两个孩子做具体的活动设计，理由：
+1. 四阶段框架已建立，内容方向明确
+2. Robin家两个孩子是现成的试点用户
+3. 有557行的儿童启蒙研究做基础
 
 ---
 
@@ -105,6 +128,8 @@ Zorro-Edu AI 课程体系
 
 | 用途 | 路径 |
 |------|------|
-| Zorro-Edu 记忆 | `~/wiki/zorro/teams/zorro-hardware/memory/`（沿用原目录） |
-| 课程素材 | `~/wiki/zorro/teams/zorro-hardware/memory/4-Curriculum/` |
-| 课程模板 | `~/wiki/zorro/teams/zorro-hardware/memory/5-Templates/` |
+| Zorro-Edu 知识交接文档 | `~/wiki/zorro/knowledge/research/ZORRO-EDU-HANDOFF-2026-04-18.md` |
+| 课程素材 | `~/wiki/research/AI教育/` |
+| 儿童专项研究 | `~/wiki/zorro/zorro-edu/ai-Enlightenment-research.md` |
+| 核心教材PPT | `~/ai-literacy-ppt/output/AI素养认知学习指南-完整版.pptx` |
+| 本阶段复盘 | `~/wiki/research/AI教育/阶段复盘-2026-04-18.md` |

@@ -1,16 +1,22 @@
+# Luffy 知识库同步 — OPS Log
 
-## 2026-04-15 20:01 — 知识库同步失败
+## 2026-04-17 20:01 (失败)
 
-**失败原因**: GitHub 推送认证失败
+**任务**: `bash ~/luffy-knowledge-base/sync.sh`
+
+**失败阶段**: Git Push
+
+**错误信息**:
 ```
 fatal: could not read Username for 'https://github.com': No such device or address
 ```
 
-**详情**:
-- Git 提交已成功完成（commit: f4dc8cd）
-- 推送阶段失败，原因是 GitHub 认证凭据不可用
-- 可能是 token/SSH key 未配置或已失效
+**原因**: GitHub HTTPS 推送缺少认证凭据（无 token/credentials configured）
 
-**影响**: 2 files changed, 124 insertions, 45 deletions — 本地已提交但未推送至远程
+**Git 状态**: commit 成功（d11e74e），但 push 失败
 
-**建议**: 检查 GitHub 认证配置（token 或 SSH key）
+**影响**: 本地已提交，未推送到远程仓库
+
+**处理**: 权限问题 — 已通知 Luffy
+
+---
