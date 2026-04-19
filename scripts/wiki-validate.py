@@ -10,7 +10,9 @@ from datetime import datetime, timedelta
 WIKI_ROOT = Path.home() / "wiki"
 REPORT = []  # [(file, status, issues)]
 
-REQUIRED_FRONTMATTER = ["title", "date", "source", "category", "tags", "status"]
+REQUIRED_FRONTMATTER_BASE = ["title", "date", "source", "tags", "status"]
+REQUIRED_FRONTMATTER_TWITTER = ["category"]  # twitter 类文件需要 category
+REQUIRED_FRONTMATTER_ARTICLE = ["type"]       # article 类文件需要 type（skill模板实际用的是type）
 REQUIRED_TAGS_MIN = 3
 
 def check_file(path):
@@ -52,8 +54,19 @@ def check_file(path):
                 if isinstance(fm[current_key], list):
                     fm[current_key].append(val)
     
+    # 识别文件类型（基于 frontmatter 的 type 字段）
+    is_twitter = any(k in fm for k in REQUIRED_FRONTMATTER_TWITTER)
+    is_article = any(k in fm for k in REQUIRED_FRONTMATTER_ARTICLE)
+
+    # 根据文件类型确定必填字段
+    required_fields = list(REQUIRED_FRONTMATTER_BASE)
+    if is_twitter:
+        required_fields.extend(REQUIRED_FRONTMATTER_TWITTER)
+    if is_article:
+        required_fields.extend(REQUIRED_FRONTMATTER_ARTICLE)
+
     # 检查必填字段
-    for field in REQUIRED_FRONTMATTER:
+    for field in required_fields:
         if field not in fm:
             issues.append(f"❌ 缺字段：{field}")
             status = "fail"
@@ -74,14 +87,17 @@ def check_file(path):
             if status != "fail":
                 status = "warn"
     
-    # 2. 正文引言块检查
-    if "> " not in content or "核心观点" not in content:
-        issues.append("⚠️ 缺『> 核心观点』引言块")
+    # 2. 正文引言块检查（兼容"核心观点"和"主题"两种格式）
+    has_quote = "> " in content
+    has_keyword = "核心观点" in content or "主题：" in content
+    if not has_quote or not has_keyword:
+        issues.append("⚠️ 缺『> 核心观点』或『> 主题：』引言块")
         if status == "pass":
             status = "warn"
     
-    # 3. 延伸参考检查
-    if "## 延伸参考" not in content and "## 相关笔记" not in content:
+    # 3. 延伸参考检查（兼容延伸阅读/相关笔记等表述）
+    has_extended = any(kw in content for kw in ["## 延伸参考", "## 相关笔记", "## 延伸阅读", "## 相关资源"])
+    if not has_extended:
         issues.append("⚠️ 缺『## 延伸参考』或『## 相关笔记』章节")
         if status == "pass":
             status = "warn"
