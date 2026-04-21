@@ -20,3 +20,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 **处理**: 权限问题 — 已通知 Luffy
 
 ---
+
+## 2026-04-20 20:01 — Git Push 失败
+
+```
+fatal: could not read Username for 'https://github.com': No such device or address
+```
+
+Git 认证未配置，Push 失败。需配置 SSH key 或 HTTPS 凭证。

@@ -1,3 +1,39 @@
+## 📋 入库质量验证报告 — 2026-04-21 20:01
+
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+
+---
+**汇总**：✅ 1 | ⚠️ 0 | ❌ 0
+
+## 🔧 Zorro-Ops 每日自检报告 — 2026-04-21 09:00
+
+### Camofox（端口9377）
+- 状态：✅ 正常
+- 详情：`{"running":true,"tabs":[]}`
+
+### Docker
+- 状态：✅ 正常
+- 详情：1个容器运行中（camofox）
+
+### Disk Space
+- 状态：✅ 正常（3%）
+- 详情：/dev/sdd 1007G | 已用23G | 可用934G | 3%
+
+### Hermes Cron
+- 状态：✅ 有 2 个活跃任务
+- 详情：
+  - hermes-weekly-maintenance（下一个：2026-04-25T03:00）
+  - 每日全球热点新闻快报（下一个：2026-04-21T17:00）
+
+### X Cookies
+- 状态：✅ 正常（15个token）
+- 详情：auth_token present: True
+
+---
+下次自检：明天 09:00
+
+---
+
 ## 📋 入库质量验证报告 — 2026-04-20 20:01
 
 ✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过

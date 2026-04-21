@@ -158,6 +158,16 @@ Luffy 每周主动推送以下报告，不需要 Robin 问：
 
 ---
 
+---
+
+## 🔗 架构文档交叉引用
+
+- **核心架构**：[../ARCHITECTURE-INDEX.md](../ARCHITECTURE-INDEX.md) — 38 个架构文档总索引
+- **Agent 核心**：[../core-agent-index.md](../core-agent-index.md) — Agent Loop + Multi-Agent 核心
+- [multi-agent-architecture](../raw/hermes-wiki/multi-agent-architecture.md) — 多 Agent 运行时机制
+- [agent-loop-and-prompt-assembly](../raw/hermes-wiki/agent-loop-and-prompt-assembly.md) — Agent 主循环
+- [interrupt-and-fault-tolerance](../raw/hermes-wiki/interrupt-and-fault-tolerance.md) — 中断与容错
+
 ## 变更记录
 
 - v1.1 (2026-04-14): 升级为架构师角色，新增主动周报 + 批判性评估 + SOP设计职责

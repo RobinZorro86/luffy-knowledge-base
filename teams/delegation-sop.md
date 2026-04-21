@@ -90,6 +90,15 @@ Robin 发链接 → Luffy 前置检查 → delegate_task 给 Zorro-Ops → Zorro
 
 ---
 
+---
+
+## 🔗 架构文档交叉引用
+
+- **核心架构**：[../ARCHITECTURE-INDEX.md](../ARCHITECTURE-INDEX.md) — 38 个架构文档总索引
+- [multi-agent-architecture](../raw/hermes-wiki/multi-agent-architecture.md) — Delegate Task 机制详解
+- [parallel-tool-execution](../raw/hermes-wiki/parallel-tool-execution.md) — 并行执行与并发控制
+- [toolsets-system](../raw/hermes-wiki/toolsets-system.md) — 工具集配置
+
 ## 变更记录
 
 - v1.0 (2026-04-14): 初始版本，定义 Luffy 保留任务 / Zorro-Ops/Research/Edu 接管任务
