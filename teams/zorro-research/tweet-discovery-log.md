@@ -62,14 +62,15 @@
 推荐入库：2条（已推送）
 未入选原因：大部分为通用AI agent文章，缺乏具体实操价值；Harness Engineering文章来自Red Hat，不适合推特场景；儿童AI教育内容太通识化
 
-## 2026-04-22 推文发现
-扫描来源：X搜索 + 行业媒体
-找到候选：0条
-推荐入库：0条（已推送）
+## 2026-04-22 推文发现（第2次扫描，补充）
+扫描来源：Camofox批量抓取（@dotey/@tychozzz/@Khazix0918/@kevingu_ai/@niceplugin/@leopardracer）+ 行业媒体提取
+找到候选：2条
+推荐入库：0条
 未入选原因：
-- web_search 未返回任何X/Twitter原始推文（site:x.com 查询被重定向至其他来源）
-- 行业媒体内容为博客文章二次加工，非独立推文
-- 未找到评分≥4分的候选推文
+- @not_racc "AI从来学不到的隐性知识"（2045253700499783745）→ 哲学思辨，长度~2000字但实操性不足，评分3.2 < 4
+- @alexalbert__ 引用@claudeai Cowork公告 → 来源为官方产品公告转推，非原创推文，且@amasad已于4月16日入库类似产品类内容
+- Camofox抓取@dotey/@tychozzz/@Khazix0918/@niceplugin/@leopardracer等账号：均无新推文或抓取为空
+- 未找到评分≥4分的新推文候选
 
 ## 2026-04-21 推文发现
 扫描来源：X搜索 + 账号主页 + 行业媒体

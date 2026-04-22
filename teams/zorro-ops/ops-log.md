@@ -1,3 +1,33 @@
+## 📋 入库质量验证报告 — 2026-04-22 20:00
+
+✅ 近2天无新增入库文件，跳过检查
+
+## 🔧 Zorro-Ops 每日自检报告 — 2026-04-22 09:00
+
+### Camofox（端口9377）
+- 状态：❌ 异常
+- 详情：连接被拒绝（exit_code 7）— Camofox 未运行
+
+### Docker
+- 状态：⚠️ 注意
+- 详情：docker 命令可用，但无运行中容器
+
+### Disk Space
+- 状态：✅ 正常（3%）
+- 详情：/dev/sdd 1007G总量，已用23G，剩余934G
+
+### Hermes Cron
+- 状态：✅ 有 2 个活跃任务
+- 详情：hermes-weekly-maintenance（周六03:00）、每日全球热点新闻快报（每日17:00）
+
+### X Cookies
+- 状态：✅ 正常（15个token，auth_token已配置）
+
+---
+下次自检：明天 09:00
+
+---
+
 ## 📋 入库质量验证报告 — 2026-04-21 20:01
 
 ✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过

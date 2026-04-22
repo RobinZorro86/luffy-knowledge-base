@@ -28,3 +28,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 ```
 
 Git 认证未配置，Push 失败。需配置 SSH key 或 HTTPS 凭证。
+
+## 2026-04-21 20:01 同步失败
+
+**失败阶段**: Git Push  
+**错误**: `fatal: could not read Username for 'https://github.com': No such device or address`  
+**原因**: Git 凭证管理器无响应（可能 WSL 与 Windows 凭证管理器通信异常）  
+**影响**: 本地已提交，未推送到远程  
+**处理**: 需要手动 `git push` 或重新运行同步
+
