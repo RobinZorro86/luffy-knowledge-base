@@ -72,6 +72,43 @@
 - Camofox抓取@dotey/@tychozzz/@Khazix0918/@niceplugin/@leopardracer等账号：均无新推文或抓取为空
 - 未找到评分≥4分的新推文候选
 
+## 2026-04-23 推文发现
+扫描来源：weekly-ai-insights/raw 预下载素材（16条推文）
+找到候选：14条（已评分）
+入库：3条（自动）
+
+### 评分结果
+| 推文 | 作者 | 得分 | 入库 |
+|------|------|------|------|
+| 约束先行 - CLAUDE.md层级体系 | @Khazix0918 | 4.6 | ✅ |
+| 达尔文.skill发布 - 无限进化skill系统 | @AlchainHust | 4.55 | ✅ |
+| Claude coding workflow notes | @karpathy | 4.55 | ✅ |
+| Zara Zhang - Claude Skill slides | @zarazhangrui | 3.8 | ❌ |
+| Claude AI scheduled tasks | @claudeai | 3.05 | ❌ |
+| Rauchg - The AI Cloud 3 pillars | @rauchg | 2.55 | ❌ |
+| Karpathy LLM Knowledge Bases | @karpathy | 4.55 | ❌（已超时3条限制）|
+| Karpathy LLM Wiki blog | @karpathy | 3.85 | ❌ |
+| Karpathy system prompt learning | @karpathy | 3.7 | ❌ |
+| Karpathy multi-agent org | @karpathy | 3.85 | ❌ |
+| Karpathy idea file | @karpathy | 3.2 | ❌ |
+| Dan Shipper o3 | @danshipper | 2.2 | ❌ |
+| AI never lived/failed | @not_racc | 2.8 | ❌ |
+| 数字生命卡兹克 - 约束先行 | @Khazix0918 | 4.6 | ✅ |
+
+---
+
+## 2026-04-22 推文发现
+扫描来源：X搜索 + 账号主页 + 行业媒体
+找到候选：6条
+推荐入库：3条（已推送）
+未入选原因：
+- Karpathy "programming in English" (Jan 26) → 已入库 @karpathy/2015883857489522876.md，跳过
+- Karpathy autoresearch 发布推文 (Mar 7) → 已入库 @karpathy/2030371219518931079.md，跳过
+- Claude Code Desktop  redesign (Apr 14) → 非独立推文，多方新闻综合报道，无原始X thread
+- harness engineering 系列概念 → 来源主要为 OpenAI 官方博客和媒体分析，非推文
+
+---
+
 ## 2026-04-21 推文发现
 扫描来源：X搜索 + 账号主页 + 行业媒体
 找到候选：0条
