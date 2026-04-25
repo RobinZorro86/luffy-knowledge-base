@@ -11,8 +11,8 @@ WIKI_ROOT = Path.home() / "wiki"
 REPORT = []  # [(file, status, issues)]
 
 REQUIRED_FRONTMATTER_BASE = ["title", "date", "source", "tags", "status"]
-REQUIRED_FRONTMATTER_TWITTER = ["category"]  # twitter 类文件需要 category
-REQUIRED_FRONTMATTER_ARTICLE = ["type"]       # article 类文件需要 type（skill模板实际用的是type）
+REQUIRED_FRONTMATTER_TWITTER = []  # category 已废除，type=tweet 已足够标识
+REQUIRED_FRONTMATTER_ARTICLE = ["type"]       # article 类文件需要 type
 REQUIRED_TAGS_MIN = 3
 
 def check_file(path):
@@ -37,29 +37,50 @@ def check_file(path):
     
     fm_text = content[3:fm_end].strip()
     
-    # 解析 frontmatter
+    # 解析 frontmatter（支持YAML多行列表格式）
     fm = {}
     current_key = None
+    in_list = False
     for line in fm_text.split("\n"):
-        line = line.strip()
-        if not line or line.startswith("#"):
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#"):
             continue
-        if ": " in line:
-            key, val = line.split(": ", 1)
-            fm[key.strip().strip("-")] = val.strip().strip('"').strip("'")
-        elif line.startswith("- "):
-            val = line[2:].strip().strip('"').strip("'")
-            if current_key:
-                fm[current_key] = fm.get(current_key, [])
-                if isinstance(fm[current_key], list):
-                    fm[current_key].append(val)
+        
+        # 检测 list item（YAML多行格式）
+        if stripped.startswith("- ") and current_key:
+            val = stripped[2:].strip().strip('"').strip("'")
+            if current_key not in fm:
+                fm[current_key] = []
+            if isinstance(fm[current_key], list):
+                fm[current_key].append(val)
+            in_list = True
+        elif ": " in stripped or stripped.endswith(":"):
+            # Handle both "key: value" and "key:" (with or without space before colon)
+            if ": " in stripped:
+                key, val = stripped.split(": ", 1)
+            else:
+                key = stripped.rstrip(":")
+                val = ""
+            current_key = key.strip().strip("-").strip('"').strip("'")
+            val = val.strip().strip('"').strip("'")
+            if val:  # key: value 格式
+                fm[current_key] = val
+            else:  # key: （后面是list）
+                fm[current_key] = []
+            in_list = False
+        elif stripped == "---" and current_key == "":  # end of frontmatter marker
+            break
     
     # 识别文件类型（基于 frontmatter 的 type 字段）
-    is_twitter = any(k in fm for k in REQUIRED_FRONTMATTER_TWITTER)
-    is_article = any(k in fm for k in REQUIRED_FRONTMATTER_ARTICLE)
+    is_twitter = fm.get("type") == "tweet"
+    is_article = fm.get("type") in ("article", "long-article")
 
     # 根据文件类型确定必填字段
+    # category 只在 type=tweet 且没有 type:long-article 时需要
     required_fields = list(REQUIRED_FRONTMATTER_BASE)
+    if is_twitter and not is_article:
+        # twitter 类型文件：type=tweet 时 category 可选（已有 type 标识）
+        pass
     if is_twitter:
         required_fields.extend(REQUIRED_FRONTMATTER_TWITTER)
     if is_article:

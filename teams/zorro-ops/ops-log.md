@@ -1,3 +1,517 @@
+## 📋 入库质量验证报告 — 2026-04-24 22:20
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 22:20
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 22:15
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 22:15
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 22:15
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 22:12
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 22:11
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 22:01
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:41
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:41
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:41
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:24
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:24
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:16
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+
+---
+**汇总**：✅ 10 | ⚠️ 0 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:16
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+⚠️ `twitter/summaries/index.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+
+---
+**汇总**：✅ 9 | ⚠️ 1 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:15
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+⚠️ `twitter/summaries/index.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+
+---
+**汇总**：✅ 9 | ⚠️ 1 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:14
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+⚠️ `twitter/ericosiu/2047443749182034112.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+⚠️ `twitter/shuwadika/2047508351177896208.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/snowboat84/2047457686070141051.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/summaries/index.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+
+---
+**汇总**：✅ 6 | ⚠️ 4 | ❌ 0
+
+## 📋 入库质量验证报告 — 2026-04-24 20:13
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+⚠️ `twitter/ericosiu/2047443749182034112.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+⚠️ `twitter/shuwadika/2047508351177896208.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/snowboat84/2047457686070141051.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺字段：source
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ status 值异常：active（应为 curated 或 raw）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+
+---
+**汇总**：✅ 6 | ⚠️ 3 | ❌ 1
+
+## 📋 入库质量验证报告 — 2026-04-24 20:13
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+⚠️ `twitter/ericosiu/2047443749182034112.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+✅ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 通过
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+⚠️ `twitter/shuwadika/2047508351177896208.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/snowboat84/2047457686070141051.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 6 | ⚠️ 3 | ❌ 1
+
+## 📋 入库质量验证报告 — 2026-04-24 20:12
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 通过
+⚠️ `twitter/ericosiu/2047443749182034112.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+⚠️ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+✅ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 通过
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+⚠️ `twitter/shuwadika/2047508351177896208.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/snowboat84/2047457686070141051.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 5 | ⚠️ 4 | ❌ 1
+
+## 📋 入库质量验证报告 — 2026-04-24 20:12
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+⚠️ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 警告
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/ericosiu/2047443749182034112.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+⚠️ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+⚠️ `twitter/shuwadika/2047508351177896208.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/snowboat84/2047457686070141051.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 3 | ⚠️ 5 | ❌ 2
+
+## 📋 入库质量验证报告 — 2026-04-24 20:11
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/ericosiu/2047443749182034112.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+⚠️ `twitter/shuwadika/2047508351177896208.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/snowboat84/2047457686070141051.md` — 警告
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 3 | ⚠️ 3 | ❌ 4
+
+## 📋 入库质量验证报告 — 2026-04-24 20:10
+
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/ericosiu/2047443749182034112.md` — 不通过
+   ❌ 缺字段：category
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ 缺字段：category
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+❌ `twitter/shuwadika/2047508351177896208.md` — 不通过
+   ❌ 缺字段：category
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/snowboat84/2047457686070141051.md` — 不通过
+   ❌ 缺字段：category
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 2 | ⚠️ 0 | ❌ 8
+
+## 📋 入库质量验证报告 — 2026-04-24 20:09
+
+❌ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 不通过
+   ❌ 缺字段：tags
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/ericosiu/2047443749182034112.md` — 不通过
+   ❌ 缺字段：tags
+   ❌ 缺字段：category
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ 缺字段：category
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：category
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 不通过
+   ❌ 缺字段：tags
+❌ `twitter/shuwadika/2047508351177896208.md` — 不通过
+   ❌ 缺字段：tags
+   ❌ 缺字段：category
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/snowboat84/2047457686070141051.md` — 不通过
+   ❌ 缺字段：tags
+   ❌ 缺字段：category
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 0 | ⚠️ 0 | ❌ 10
+
+## 📋 入库质量验证报告 — 2026-04-24 20:08
+
+❌ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 不通过
+   ❌ 缺字段：tags
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/ericosiu/2047443749182034112.md` — 不通过
+   ❌ 缺字段：tags
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 通过
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 不通过
+   ❌ 缺字段：tags
+❌ `twitter/shuwadika/2047508351177896208.md` — 不通过
+   ❌ 缺字段：tags
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/snowboat84/2047457686070141051.md` — 不通过
+   ❌ 缺字段：tags
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/summaries/index.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 1 | ⚠️ 0 | ❌ 9
+
 ## 📋 入库质量验证报告 — 2026-04-24 20:00
 
 ❌ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 不通过

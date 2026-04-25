@@ -37,3 +37,12 @@ Git 认证未配置，Push 失败。需配置 SSH key 或 HTTPS 凭证。
 **影响**: 本地已提交，未推送到远程  
 **处理**: 需要手动 `git push` 或重新运行同步
 
+
+## 同步失败 — 2026-04-24 20:00
+
+**失败阶段**: Git 推送 (github.com)
+**错误**: `fatal: could not read Username for 'https://github.com': No such device or address`
+**根因**: GitHub 认证凭证缺失（可能是 `credential.helper` 未配置或 token 失效）
+**影响**: 4 个文件已提交到本地，但无法推送到远程仓库
+**处理**: 已跳过重试（权限问题，直接通知 Luffy）
+
