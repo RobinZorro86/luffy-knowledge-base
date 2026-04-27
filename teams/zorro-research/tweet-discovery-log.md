@@ -17,3 +17,22 @@
 - 通过行业文章（博客园/CSDN）提取引用的推文URL
 - 扫描 ~/wiki/twitter/weekly-ai-insights/raw/ 预下载素材
 - Camofox 状态正常（9377端口），待后续直接抓取单条推文
+## 2026-04-27 推文发现
+扫描来源：weekly-ai-insights/raw/ 目录（预下载推文）
+找到候选：11条
+推荐入库：2条（自动）
+未入选原因：大部分推文已入库；rauchg/zarazhangrui内容实操性偏弱；karpathy多个已入库
+
+**入库详情：**
+| # | 作者 | 主题 | 评分 | 时间 |
+|---|------|------|------|------|
+| 1 | @not_racc | AI取代不了的隐性知识（四大护城河） | 4.4 | 2026-04-17 |
+| 2 | @karpathy | LLM知识库系统化工作流（详细thread） | 4.5 | 2026-04-02 |
+
+**未入库说明：**
+- @Khazix0918 约束先行：已于2026-04-25入库 ✅
+- @AlchainHust 达尔文.skill：已于2026-04-25入库 ✅  
+- @karpathy 系统prompt学习/IDE notes/claude coding/autoresearch：均已入库 ✅
+- @rauchg AI Cloud框架推演：实操性一般（仅3条推文，无实质方法）→ 3.2分
+- @zarazhangrui Claude Skill做slides：工具介绍但缺具体实现细节 → 3.3分
+
