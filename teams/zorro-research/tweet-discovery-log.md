@@ -36,3 +36,9 @@
 - @rauchg AI Cloud框架推演：实操性一般（仅3条推文，无实质方法）→ 3.2分
 - @zarazhangrui Claude Skill做slides：工具介绍但缺具体实现细节 → 3.3分
 
+
+## 2026-04-28 推文发现
+扫描来源：weekly-ai-insights/raw/ 目录（预下载推文扫描）
+找到候选：6条
+入库：0条（已全部入库）
+未入选原因：所有候选推文均已存在于 ~/wiki/twitter/{author}/ 目录中，无新推文需要入库

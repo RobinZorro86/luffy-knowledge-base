@@ -1,3 +1,16 @@
+## 📋 入库质量验证报告 — 2026-04-27 20:00
+
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 5 | ⚠️ 0 | ❌ 1
+
 ## 📋 入库质量验证报告 — 2026-04-26 20:00
 
 ✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
@@ -1166,3 +1179,37 @@
 **汇总**：✅ 0 | ⚠️ 0 | ❌ 3
 
 **阻塞级别**：❌ 存在 3 个阻塞项（缺 title），需修复后重新入库
+
+---
+## Wiki 质量门禁报告 — 2026-04-27 20:00
+
+### 脚本检查结果
+✅ 5 passed | ⚠️ 0 | ❌ 1
+
+| 文件 | 状态 | 问题 |
+|------|------|------|
+| twitter/AlchainHust/2026-04-25-2043709317296361851.md | ✅ 通过 | — |
+| twitter/Khazix0918/2026-04-25-2043886063106830741.md | ✅ 通过 | — |
+| twitter/Tra的美本日记/2026-04-17-2045253700499783745.md | ✅ 通过 | — |
+| twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md | ✅ 通过 | — |
+| twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md | ✅ 通过 | — |
+| twitter/weekly-ai-insights/weekly-report-2026-W17.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头）|
+
+### 分类校验
+✅ 无分类问题 — 所有文件 category 与路径匹配
+
+| 文件 | 路径 | category | 匹配 |
+|------|------|-----------|------|
+| AlchainHust/2026-04-25... | twitter/AlchainHust/ | AI架构 | ✓ |
+| Khazix0918/2026-04-25... | twitter/Khazix0918/ | AI架构 | ✓ |
+| Tra的美本日记/2026-04-17... | twitter/Tra的美本日记/ | AI教育 | ✓ |
+| karpathy/2026-04-02... | twitter/karpathy/ | 知识管理 | ✓ |
+| 花叔/2026-04-18... | twitter/花叔/ | AI架构 | ✓ |
+
+### 阻塞项（必须当日清零）
+- ❌ `weekly-report-2026-W17.md` 缺 frontmatter — 需要添加 YAML 头或移出 twitter/ 目录
+
+### 需 Luffy 决策
+- `twitter/weekly-ai-insights/weekly-report-2026-W17.md`：这是 Zorro-Research 生成的周报（160行），不是原始推文。
+  - 选项A：添加 frontmatter 保留在 `twitter/weekly-ai-insights/`
+  - 选项B：移动到 `wiki/research/` 或其他归档位置
