@@ -1,3 +1,87 @@
+## 📋 入库质量验证报告 — 2026-04-29 20:00
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/anchornode/2048766880454996085.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+❌ `twitter/bozhou_ai/2049021892208521544.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/dontbesilent/2048644941358981239.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/jaden_riku/2034136005113221142.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+❌ `twitter/longdechen12/2048792302655848821.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 2 | ⚠️ 7 | ❌ 11
+
+## 📋 入库质量验证报告 — 2026-04-28 20:00
+
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+❌ `twitter/dontbesilent/2048644941358981239.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/jaden_riku/2034136005113221142.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+❌ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+
+---
+**汇总**：✅ 2 | ⚠️ 0 | ❌ 9
+
 ## 📋 入库质量验证报告 — 2026-04-27 20:00
 
 ✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
@@ -1213,3 +1297,72 @@
 - `twitter/weekly-ai-insights/weekly-report-2026-W17.md`：这是 Zorro-Research 生成的周报（160行），不是原始推文。
   - 选项A：添加 frontmatter 保留在 `twitter/weekly-ai-insights/`
   - 选项B：移动到 `wiki/research/` 或其他归档位置
+
+---
+
+## Wiki 质量门禁报告 — 2026-04-28 20:00
+
+### 脚本检查结果
+✅ 2 passed | ⚠️ 0 | ❌ 9
+
+| 文件 | 状态 | 问题 |
+|------|------|------|
+| twitter/Tra的美本日记/2026-04-17-2045253700499783745.md | ✅ 通过 | — |
+| twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md | ✅ 通过 | — |
+| twitter/dontbesilent/2048644941358981239.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/jaden_riku/2034136005113221142.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/parasverma7454/2048366074169835559.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/rwayne/2048409929900536091.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/weekly-ai-insights/weekly-report-2026-W17.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/yangyi/2048077926222987389.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/yanhua1010/2048577878447845447.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+| twitter/yupi996/2048580116297695289.md | ❌ 不通过 | 缺 frontmatter（未以 --- 开头） |
+
+### 分类校验
+⚠️ 发现 2 类分类问题
+
+#### 问题1：`type` vs `category` 字段混用（已知问题，上期已记录）
+
+**影响范围**：AI教育/素材库 全部文件（论文/课程案例/工具与应用/文章共约40+文件）仍使用旧字段 `type: paper` 等，v2.0 规范已要求改为 `category`。
+
+**示例**：
+- `wiki/research/AI教育/素材库/论文/2026-04-28-ai-literacy-intervention-regulation-llm-middle-school.md` → 仍有 `type: paper`，缺 `category: 论文`
+- `wiki/research/AI教育/素材库/课程案例/`、`工具与应用/`、`文章/` 下所有文件均有此问题
+
+**是否修复**：⚠️ 上期已标记为"需 Luffy 决策"，本次未见修复指令，暂未处理。
+
+#### 问题2：7个 twitter 文件缺 frontmatter（需入库前自检）
+
+| 文件 | 原始链接 |
+|------|---------|
+| twitter/dontbesilent/2048644941358981239.md | https://x.com/dontbesilent/status/2048644941358981239 |
+| twitter/jaden_riku/2034136005113221142.md | （3月17日推文，缺原始链接）|
+| twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md | 有链接，格式正确 |
+| twitter/parasverma7454/2048366074169835559.md | https://x.com/parasverma7454/status/2048366074169835559 |
+| twitter/rwayne/2048409929900536091.md | https://x.com/rwayne/status/2048409929900536091 |
+| twitter/yangyi/2048077926222987389.md | https://x.com/yangyi/status/2048077926222987389 |
+| twitter/yanhua1010/2048577878447845447.md | 有链接，格式正确 |
+| twitter/yupi996/2048580116297695289.md | https://x.com/yupi996/status/2048580116297695289 |
+
+> **注意**：这些文件内容完整（包含作者/发布时间/原始链接），但 baoyu-x-to-markdown 抓取时未生成 `---` frontmatter 头。这是抓取工具问题，不是内容问题。Zorro-Ops 建议：修复抓取工具或由入库 Agent 补 frontmatter。
+
+#### 问题3：weekly-ai-insights 周报定位问题（持续3期）
+
+| 文件 | 问题 |
+|------|------|
+| twitter/weekly-ai-insights/weekly-report-2026-W17.md | Zorro-Research 生成的160行结构化周报，不应放在 `twitter/` 目录 |
+
+**建议方案**（待 Luffy 决策）：
+- 选项A：添加 frontmatter 后保留在 `twitter/weekly-ai-insights/`
+- 选项B：移动到 `wiki/research/行业洞察/`
+- 选项C：移动到 `wiki/outputs/` 作为产出归档
+
+### 阻塞项（必须当日清零）
+- ❌ 7个 twitter 文件缺 frontmatter（抓取工具问题，需通知 Zorro-Research 修复来源）
+- ❌ weekly-ai-insights 周报定位问题（持续3期未解决）
+
+### 需 Luffy 决策
+1. **AI教育/素材库 文件 `type` → `category` 迁移**：40+文件需批量从 `type: paper` 改为 `category: 论文`，是否执行？
+2. **weekly-ai-insights 周报归档位置**：选项A/B/C（见上）
+3. **7个缺 frontmatter 的 twitter 文件**：是修复抓取工具（baoyu-x-to-markdown）还是入库时补 frontmatter？

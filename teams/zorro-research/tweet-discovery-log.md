@@ -42,3 +42,23 @@
 找到候选：6条
 入库：0条（已全部入库）
 未入选原因：所有候选推文均已存在于 ~/wiki/twitter/{author}/ 目录中，无新推文需要入库
+
+## 2026-04-29 推文发现
+扫描来源：X搜索（行业媒体文章提推文URL） + 预下载素材扫描 + 目标账号排查
+找到候选：5条
+入库：2条（自动）
+未入选原因：
+  - @anchornode（Agent三次跃迁）：高分论点但属于高层次概述，实操性偏弱 → 3.4分不入库
+  - 预下载 raw 目录推文：已全部入库（Khazix0918、alchainhust、karpathy等均已入库）
+  - niceplugin/leopardracer：目录不存在或未收录
+
+**入库详情：**
+| # | 作者 | 主题 | 评分 | 时间 |
+|---|------|------|------|------|
+| 1 | @bozhou_ai | 上下文工程实战框架（Context Engineering五场景方案） | 4.3 | 2026-04-28 |
+| 2 | @longdechen12 | Claude Code+Obsidian五步法，一个月涨粉1万 | 4.5 | 2026-04-28 |
+
+**未入库说明：**
+- @anchornode（Agent三次跃迁论）：3.4分 — 高层次概述，缺具体可执行内容
+- @bozhou_ai：✅ 已入库（Context Engineering 工作台框架，有5种场景方案）
+- @longdechen12：✅ 已入库（Claude Code+Obsidian 原创系统，5步骤+3指令+完整工作流）
