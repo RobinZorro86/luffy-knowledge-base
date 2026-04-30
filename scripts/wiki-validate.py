@@ -86,6 +86,19 @@ def check_file(path):
     if is_article:
         required_fields.extend(REQUIRED_FRONTMATTER_ARTICLE)
 
+    # Twitter 文件特殊规则
+    if is_twitter:
+        # author 字段不得带 @ 前缀
+        author_val = fm.get("author", "")
+        if isinstance(author_val, str) and author_val.startswith("@"):
+            issues.append("❌ author 字段不得带 @ 前缀")
+            status = "fail"
+        # url 字段必须包含 x.com 或 twitter.com
+        url_val = fm.get("url", "")
+        if "x.com" not in url_val and "twitter.com" not in url_val:
+            issues.append(f"❌ url 字段缺少 x.com：{url_val}")
+            status = "fail"
+
     # 检查必填字段
     for field in required_fields:
         if field not in fm:
@@ -107,6 +120,10 @@ def check_file(path):
             issues.append(f"⚠️ status 值异常：{fm[field]}（应为 curated 或 raw）")
             if status != "fail":
                 status = "warn"
+        elif field == "status" and fm[field] == "raw" and is_twitter:
+            # Twitter 文件 status=raw 表示未 curation，不得入库
+            issues.append(f"❌ status=raw 不得入库（必须改为 curated）")
+            status = "fail"
     
     # 2. 正文引言块检查（兼容"核心观点"和"主题"两种格式）
     has_quote = "> " in content
@@ -132,8 +149,9 @@ def check_file(path):
             status = "warn"
     
     # 5. 文件名检查
+    # tweet 文件用 {tweet_id}.md 格式，不以年份开头是正常的
     filename = path.name
-    if not re.match(r"\d{4}-", filename):
+    if not is_twitter and not re.match(r"\d{4}-", filename):
         issues.append(f"⚠️ 文件名不符合规范（应以年份开头，如 2026-）")
         if status == "pass":
             status = "warn"
