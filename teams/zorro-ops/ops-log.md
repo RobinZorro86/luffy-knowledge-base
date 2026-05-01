@@ -1,3 +1,1532 @@
+## 📋 入库质量验证报告 — 2026-05-01 20:00
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/Alexjkman/2049939620671213614.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+❌ `twitter/karpathy/2049903821095354523.md` — 不通过
+   ❌ 缺字段：title
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/rwayne/2026-05-01-2050050113142509886-enterprise-ai-transformation.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+⚠️ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 警告
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 41 | ⚠️ 12 | ❌ 18
+
+## 📋 入库质量验证报告 — 2026-05-01 15:50
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/amasad/2026-05-01-2050068763923785775-tweet-archived.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/rwayne/2026-05-01-2050050113142509886-enterprise-ai-transformation.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+❌ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 不通过
+   ❌ 缺字段：source
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 42 | ⚠️ 11 | ❌ 17
+
+## 📋 入库质量验证报告 — 2026-05-01 15:38
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/rwayne/2026-05-01-2050050113142509886-enterprise-ai-transformation.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+❌ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 不通过
+   ❌ 缺字段：source
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 41 | ⚠️ 11 | ❌ 17
+
+## 📋 入库质量验证报告 — 2026-05-01 15:38
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/rwayne/2026-05-01-2050050113142509886-enterprise-ai-transformation.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/rwayne/2050050113142509886.md` — 通过
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+❌ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 不通过
+   ❌ 缺字段：source
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 42 | ⚠️ 11 | ❌ 17
+
+## 📋 入库质量验证报告 — 2026-05-01 15:37
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/rwayne/2026-05-01-2050050113142509886-enterprise-ai-transformation.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/rwayne/2050050113142509886.md` — 通过
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+❌ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 不通过
+   ❌ 缺字段：source
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 42 | ⚠️ 11 | ❌ 17
+
+## 📋 入库质量验证报告 — 2026-05-01 15:29
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/rwayne/2026-05-01-2050050113142509886-enterprise-ai-transformation.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+❌ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 不通过
+   ❌ 缺字段：source
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 41 | ⚠️ 11 | ❌ 17
+
+## 📋 入库质量验证报告 — 2026-05-01 15:29
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+✅ `twitter/rwayne/2026-05-01-2050050113142509886-enterprise-ai-transformation.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+❌ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 不通过
+   ❌ 缺字段：source
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 41 | ⚠️ 11 | ❌ 17
+
+## 📋 入库质量验证报告 — 2026-05-01 15:22
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+✅ `twitter/dotey/2026-05-01-2050028108787450148-codex-goal-ralph-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-04-30-2049903821095354523-agentic-engineering-ceiling.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+⚠️ `twitter/longdechen12/2026-04-30-2049846715638030409-ai-training-bridge.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+❌ `twitter/snowboat84/2026-05-01-2050008577511973253.md` — 不通过
+   ❌ 缺字段：source
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+✅ `twitter/swyx/2026-05-01-2050068468498842058-coding-agents-knowledge-work.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 40 | ⚠️ 11 | ❌ 17
+
+## 📋 入库质量验证报告 — 2026-05-01 10:08
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/AlchainHust/2026-04-25-2043709317296361851.md` — 通过
+❌ `twitter/Alexjkman/2026-04-29-ai-landing-blindspots.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/Khazix0918/2026-04-25-2043886063106830741.md` — 通过
+✅ `twitter/Nico投资有道/2026-Obsidian-Claudian-AI终极个人知识库.md` — 通过
+✅ `twitter/Tra的美本日记/2026-04-17-2045253700499783745.md` — 通过
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/akshay_pachaar/2026-04-06-2041146899319971922.md` — 通过
+✅ `twitter/amasad/2026-04-16-ai-psychology-from-asimov-to-anthropic.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/btcqzy1/2026-04-16-hermes-agent-advanced-guide.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/danshipper/2026-04-16-1912551847056785841-o3-review.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md` — 通过
+✅ `twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ericosiu/2026-04-23-2047443749182034112.md` — 通过
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+❌ `twitter/karpathy/2026-01-15-2015883857489522876-karpathy-claude-code-notes.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+❌ `twitter/karpathy/2026-02-27-2027521323275325622-multi-agent-research-org.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2039805659525644595-llm-knowledge-bases-thread.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+❌ `twitter/karpathy/2026-04-04-2040472969278042369-llm-knowledge-bases.md` — 不通过
+   ❌ author 字段不得带 @ 前缀
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+❌ `twitter/lawrence-w-zen/2026-04-29-coding-agent-mvp.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（2 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+❌ `twitter/nainsi-dwiv/2026-04-29-sub-agents-vs-agent-teams-architecture.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/oops073111/2026-04-30-yc-2026-rfs-infrastructure.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+❌ `twitter/parasverma7454/2048366074169835559.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/runes_leo/2026-04-06-2046853258795458798.md` — 通过
+❌ `twitter/rwayne/2048409929900536091.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/shuwadika/2026-04-24-2047508351177896208.md` — 通过
+✅ `twitter/snowboat84/2026-04-23-2047457686070141051.md` — 通过
+✅ `twitter/summaries/2026-04-24-twitter-summaries-index.md` — 通过
+❌ `twitter/vista8/2026-04-30-openai-symphony-ai.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/weekly-ai-insights/2026-04-16-ai-insights.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-04-16-weekly-report-ai-insights-w16.md` — 通过
+✅ `twitter/weekly-ai-insights/2026-W17-weekly-report-ai-insights.md` — 通过
+❌ `twitter/weekly-ai-insights/weekly-report-2026-W17.md` — 不通过
+   ❌ 缺 frontmatter 头（未以 --- 开头）
+❌ `twitter/yangyi/2026-04-29-内容聚合-垂直类目打法.md` — 不通过
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+❌ `twitter/yangyi/2048077926222987389.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+❌ `twitter/yanhua1010/2048577878447845447.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+❌ `twitter/yupi996/2048580116297695289.md` — 不通过
+   ❌ 缺字段：title
+   ❌ 缺字段：date
+   ❌ 缺字段：source
+   ❌ 缺字段：tags
+   ❌ 缺字段：status
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+   ⚠️ 文件名不符合规范（应以年份开头，如 2026-）
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+✅ `twitter/宝玉/2026-AI-First战略可能大错特错.md` — 通过
+✅ `twitter/数字生命卡兹克/2026-约束先行-用好Agent最重要技巧.md` — 通过
+✅ `twitter/花叔/2026-04-18-达尔文-skill无限进化skill系统.md` — 通过
+
+---
+**汇总**：✅ 37 | ⚠️ 10 | ❌ 16
+
+## 📋 入库质量验证报告 — 2026-04-30 20:03
+
+⚠️ `twitter/430yang/2049109631520370877.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/ai_xiaomu/2026-04-30-hot-keyword-website-ai-xiaomu.md` — 通过
+✅ `twitter/anchornode/2026-04-30-gstack-hermes-integration.md` — 通过
+⚠️ `twitter/anchornode/2048766880454996085.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/bozhou_ai/2026-04-28-2049021892208521544.md` — 通过
+✅ `twitter/claudeai/2026-02-25-2026720870631354429-cowork-scheduled-tasks.md` — 通过
+⚠️ `twitter/ctrl_alt_zaid/2049082538686382397.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dashen_wang/2026-04-30-enterprise-ai-training-business.md` — 通过
+⚠️ `twitter/dontbesilent/2048644941358981239.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/dotey/2026-04-29-karpathy-vibe-coding-agentic-engineering.md` — 通过
+⚠️ `twitter/dotey/2049283917509693942.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/elliotchen100/2049299210668032393.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/jaden_riku/2049156958423482826.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/karpathy/2025-05-11-1921368644069765486-system-prompt-learning.md` — 通过
+✅ `twitter/karpathy/2026-03-07-2030371219518931079-autoresearch-agent-loop.md` — 通过
+✅ `twitter/karpathy/2026-04-02-2040470801506541998-idea-file-agent-sharing.md` — 通过
+✅ `twitter/knoyee_/2026-04-29-hermes-multi-profile-opc-team.md` — 通过
+⚠️ `twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/longdechen12/2026-04-28-2048792302655848821.md` — 通过
+✅ `twitter/longdechen12/2026-04-29-li-xiaolai-github-long-term-asset.md` — 通过
+✅ `twitter/oran_ge/2026-04-30-cola-ai-liberal-arts.md` — 通过
+⚠️ `twitter/parasverma7454/2048366074169835559.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/rwayne/2048409929900536091.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/saitowu/2049090837603340525.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/sharbel/2049158152709382177.md` — 警告
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/yangyi/2048077926222987389.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+⚠️ `twitter/yanhua1010/2048577878447845447.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/yaohui12138/2026-04-30-prompt-engineering-full-link.md` — 通过
+⚠️ `twitter/yupi996/2048580116297695289.md` — 警告
+   ⚠️ tags 数量不足（1 < 3）
+   ⚠️ 缺『> 核心观点』或『> 主题：』引言块
+   ⚠️ 缺『## 延伸参考』或『## 相关笔记』章节
+✅ `twitter/zarazhangrui/2026-01-28-2016337615843434646-claude-skill-web-slides.md` — 通过
+
+---
+**汇总**：✅ 15 | ⚠️ 15 | ❌ 0
+
 ## 📋 入库质量验证报告 — 2026-04-30 20:01
 
 ⚠️ `twitter/430yang/2049109631520370877.md` — 警告
@@ -1768,3 +3297,32 @@
 - X Cookies 状态：✅ 正常 — cookieMap 格式；有效token: 2；auth_token: 27289755b6a269e5b4ae...；ct0: 53c132a390f1d73a17b2...
 
 总结：一切正常
+
+
+### Wiki 分类校验 — 2026-04-30 20:03
+- 扫描今日修改内容文件：16 个（排除 ops/index/log 类文件）。
+- 修复分类/路径问题：8 个。将 `wiki/summaries/` 下 tweet-summary 移入 `wiki/twitter/{author}/`，补齐 `category`、YAML 多行 `tags`、`status: curated`、核心观点与延伸参考。
+- AI教育素材库今日新增 3 个文件 category 与路径一致：论文 / 工具与应用 / 课程案例。
+- 当前分类校验阻塞项：0。需 Luffy 决策：0。
+## 2026-05-01 每日自检
+
+- Camofox（9377）: ✅ 正常 — HTTP 200
+- Docker 容器状态: ✅ 正常 — 运行中 4 个：mem0-dev-mem0-1, mem0-dev-mem0-dashboard-1, mem0-dev-postgres-1, camofox
+- 磁盘空间: ✅ 正常 — /dev/sdf       1007G   28G  929G   3% /
+- Hermes Cron 活跃任务: ⚠️ 注意 — 目录不存在：/home/um870/.hermes/cron/jobs
+- X Cookies 状态: ❌ 异常 — 解析失败：'str' object has no attribute 'get'
+
+
+### 2026-05-01 自检修正
+- Hermes Cron 活跃任务: ✅ 正常 — cron API 显示 13 个已启用任务；旧路径 ~/.hermes/cron/jobs 不存在，判定为存储路径变更而非任务缺失。
+- X Cookies 状态: ✅ 正常 — cookieMap 中 auth_token len=40，ct0 len=160；原检查脚本按 list 格式解析导致误报。
+- Docker 健康状态补充: ⚠️ 注意 — mem0-dev-mem0-dashboard-1 为 unhealthy。
+
+## 2026-05-01 18:02  — 知识库月度索引审查
+
+- 报告：`~/wiki/知识库健康报告-2026-05.md`
+- Index：25 个，待更新 0 个
+- 孤立文件：summaries 3 个，research 51 个
+- 新增/近期活跃无 index 目录：140 个
+- 健康评分：70（良好）
+- mem0 sync：4 facts written

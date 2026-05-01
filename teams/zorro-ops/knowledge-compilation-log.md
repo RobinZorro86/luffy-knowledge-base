@@ -78,3 +78,13 @@
 **备注：** 44 > 10，自动执行编译，未打扰Robin
 
 ---
+
+## 2026-05-01 18:02 JST — Weekly Knowledge Compilation Sweep
+
+- 检测结果：raw/hermes-wiki=38，raw/articles=6，素材库=0，summaries index stale=0
+- 执行动作：自动编译（聚合摘要 + index 更新）
+- 产出文件：
+  - /home/um870/wiki/summaries/S007-hermes-architecture-weekly-sweep-2026-05-01.md
+  - /home/um870/wiki/summaries/S008-ai-agent-articles-weekly-sweep-2026-05-01.md
+  - /home/um870/wiki/summaries/index.md
+- mem0 sync: 4 facts written

@@ -90,3 +90,30 @@
 入库：2条（自动）
 未入选原因：多数 raw 候选已按 tweet_id 入库或只存在周报摘要；短推/趋势判断类内容深度不足；AI心理学候选已存在同 ID 完整入库版本。
 验证：wiki-validate.py 对新增 2 个文件均显示 ✅ 通过；全局旧文件仍有历史警告但无阻塞项。
+
+## 2026-05-01 推文发现
+扫描来源：X/Camofox 账号主页扫描（@dotey、@tychozzz、@Khazix0918、@kevingu_ai、@niceplugin、@leopardracer） + weekly-ai-insights/raw 去重 + 行业媒体搜索
+找到候选：16条账号主页候选 + 16条 raw 候选；raw 候选除 @rauchg 外均已入库，@rauchg 实操性不足；X 搜索页返回错误但账号主页可用
+入库：3条（自动）
+未入选原因：@tychozzz 多为投资/信息获取泛主题，@leopardracer 偏副业案例，@Khazix0918 两条文章卡片可见内容不足且部分为工具清单，未优先入库；@dotey 三条与 Agent Harness/Skill Curation/Agent UX 高相关。
+
+**入库详情：**
+| # | 作者 | 主题 | 评分 | 时间 | 文件路径 |
+|---|------|------|------|------|----------|
+| 1 | @dotey | CodexPotter：MAIN.md + 干净上下文循环驱动 Codex | 4.4 | 2026-04-30 | ~/wiki/twitter/dotey/2026-04-30-2049892890323697859-codexpotter-clean-context-loop.md |
+| 2 | @dotey | Hermes Curator：自我进化 Agent 的技能策展机制 | 4.3 | 2026-04-30 | ~/wiki/twitter/dotey/2026-04-30-2049735038560842186-hermes-curator-skill-cleanup.md |
+| 3 | @dotey | Agent 产品交互：侧边栏会话与状态化 | 4.1 | 2026-04-30 | ~/wiki/twitter/dotey/2026-04-30-2049888645369200671-agent-ui-stateful-interaction.md |
+
+## 2026-05-01 推文发现
+扫描来源：X搜索 + 账号主页 + 行业媒体
+找到候选：约25条（Camofox 账号主页：@dotey/@tychozzz/@Khazix0918/@leopardracer/@karpathy/@swyx/@amasad/@rauchg；web_search 行业媒体补充）
+入库：3条（自动）
+未入选原因：多数为投资/市场噪音、转推短评、与已入库内容重复，或可见正文不足以支撑≥4分；raw 候选中仅 @rauchg AI Cloud 未重复但实操性不足，暂不入库。
+
+## 2026-05-01 推文发现
+扫描来源：Robin 手动转发
+找到候选：1条
+推荐入库：1条
+入库结果：❌ Luffy 直接执行了入库（应 delegate 给 Zorro-Research）；发现 @snowboat84 的 Vibe Reading 已于之前入库（2026-05-01），重复入库文件已删除
+未入选原因：重复入库
+处理：已修正 frontmatter（补 source/type/status）；skill 已更新 v1.8（统一 baoyu-x-to-markdown）
