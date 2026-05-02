@@ -11,7 +11,7 @@ WIKI_ROOT = Path.home() / "wiki"
 REPORT = []  # [(file, status, issues)]
 
 REQUIRED_FRONTMATTER_BASE = ["title", "date", "source", "tags", "status"]
-REQUIRED_FRONTMATTER_TWITTER = []  # category 已废除，type=tweet 已足够标识
+REQUIRED_FRONTMATTER_TWITTER = ["category"]  # category 必填（Skill v2.1 规范）
 REQUIRED_FRONTMATTER_ARTICLE = ["type"]       # article 类文件需要 type
 REQUIRED_TAGS_MIN = 3
 
@@ -71,8 +71,8 @@ def check_file(path):
         elif stripped == "---" and current_key == "":  # end of frontmatter marker
             break
     
-    # 识别文件类型（基于 frontmatter 的 type 字段）
-    is_twitter = fm.get("type") == "tweet"
+    # 识别文件类型（基于 frontmatter 的 type 字段，Twitter 也可看 source）
+    is_twitter = fm.get("type") == "tweet" or fm.get("source") == "twitter"
     is_article = fm.get("type") in ("article", "long-article")
 
     # 根据文件类型确定必填字段

@@ -110,7 +110,27 @@
 入库：3条（自动）
 未入选原因：多数为投资/市场噪音、转推短评、与已入库内容重复，或可见正文不足以支撑≥4分；raw 候选中仅 @rauchg AI Cloud 未重复但实操性不足，暂不入库。
 
-## 2026-05-01 推文发现
+## 2026-05-02 推文发现
+扫描来源：twitter/ 目录增量扫描（新建文件检测）
+找到候选：8条（均为 2026-05-01 21:48 后新建）
+入库：8条（均为 curated 状态，由 Luffy 直接执行入库）
+未入选原因：不适用（已入库）
+
+**入库详情：**
+| # | 作者 | 主题 | 评分 | 文件路径 |
+|---|------|------|------|----------|
+| 1 | @saitowu | 多Agent开发范式：四大核心能力 | ~4.3 | ~/wiki/twitter/saitowu/2026-05-02-multi-agent-development-paradigm.md |
+| 2 | @nainsidwiv50980 | How to Design AI Systems That Don't Break | ~4.2 | ~/wiki/twitter/nainsidwiv50980/2050125040168137116.md |
+| 3 | @dashen_wang | 整个AI行业正在系统性地消灭它最需要的东西 | ~4.5 | ~/wiki/twitter/dashen_wang/2050031160269619499.md |
+| 4 | @morris_lt | 从赌徒到投资者：8大金融公式 | ~3.8 | ~/wiki/twitter/morris_lt/2050049301028782515.md |
+| 5 | @anchornode | Claude Code、OpenClaw、Hermes：Agent三次跃迁 | ~4.0 | ~/wiki/twitter/anchornode/2048766880454996085.md |
+| 6 | @dontbesilent | 问题消解100例 | ~3.8 | ~/wiki/twitter/dontbesilent/2048644941358981239.md |
+| 7 | @430yang | 人到中年送你10条建议 | ~3.0 | ~/wiki/twitter/430yang/2049109631520370877.md |
+| 8 | @lawrencew_zen | AI信息差套利工作流 | ~3.5 | ~/wiki/twitter/lawrencew_zen/2026-04-27-ai-xinxi-chaji.md |
+
+验证：wiki-validate.py 无阻塞项；所有文件 status=curated，frontmatter 完整
+
+## 2026-05-01 推文发现（续）
 扫描来源：Robin 手动转发
 找到候选：1条
 推荐入库：1条
