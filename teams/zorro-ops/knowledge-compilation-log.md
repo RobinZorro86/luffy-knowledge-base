@@ -88,3 +88,7 @@
   - /home/um870/wiki/summaries/S008-ai-agent-articles-weekly-sweep-2026-05-01.md
   - /home/um870/wiki/summaries/index.md
 - mem0 sync: 4 facts written
+
+## Related
+
+- [[hermes/index]] — Hermes 架构文档总索引

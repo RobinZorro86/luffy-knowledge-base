@@ -208,3 +208,7 @@
 ## 变更记录
 
 - v1.0 (2026-04-14): 初始版本，定义 P0/P1/P2/P3 + 状态 + 评级 + 阻塞上报 + Feature Flag
+
+## Related
+
+- [[hermes/index]] — Hermes 架构文档总索引

@@ -137,3 +137,46 @@
 入库结果：❌ Luffy 直接执行了入库（应 delegate 给 Zorro-Research）；发现 @snowboat84 的 Vibe Reading 已于之前入库（2026-05-01），重复入库文件已删除
 未入选原因：重复入库
 处理：已修正 frontmatter（补 source/type/status）；skill 已更新 v1.8（统一 baoyu-x-to-markdown）
+
+## 2026-05-03 推文发现
+扫描来源：twitter/目录增量扫描（来源D）
+时间锚点：2026-05-01 15:21:53（swyx编码 agents博文修改时间）
+扫描目录：~/wiki/twitter/（排除weekly-ai-insights/和raw/）
+找到候选：3条
+入库：2条（自动）
+未入选原因：hitw93 GEO指南为之前已入库（同一推文的不同抓取版本）
+
+### 入库文件
+1. ~/wiki/twitter/eng_khairallah1/2026-05-02-2050505874125529592-ai-automation-10k-month.md
+   - 评分：⭐⭐⭐⭐（4.2分）
+   - 来源：twitter/目录根 → 迁移至eng_khairallah1/作者目录
+   - 原因：baoyu输出文件在twitter/根目录，非标准路径；frontmatter重新标准化
+
+2. ~/wiki/twitter/hitw93/2026-05-01_zh_hitw93_2050189572999618982.md
+   - 评分：⭐⭐⭐⭐（4.1分）
+   - 修复：frontmatter重新标准化（解决缺date字段+重复字段问题）
+
+### wiki-validate.py状态
+✅ 54 | ⚠️ 3 | ❌ 0（全部清零）
+⚠️ 警告项：pandatalk8/piercezhang34/wsinsights（缺延伸参考章节）
+
+## 2026-05-03 推文发现
+扫描来源：twitter/ 目录增量扫描（来源D）
+时间锚点：2026-05-02 20:02:55（dotey/2049283917509693942）
+找到候选：8条（去重前）
+推荐入库：3条（自动）
+入库列表：
+  1. @gosailglobal — 吴恩达21节课讲透2026年AI高手心法 — 4.15分
+  2. @sharbel — 15 Hermes Agent features — 4.18分
+  3. @yidabuilds — $155 vs $15 Codex实测 — 4.08分
+未入选原因：
+  - wsinsights/2050461049732645159: 重复（已入库）
+  - eng_khairallah1/2050505874125529592: 重复（已入库）
+  - saitowu/2049090837603340525: 重复（已入库）
+  - 网站开发0-1-100(@gosailglobal): 3.9分，未达4分阈值
+  - AI爬虫(@piercezhang34): 3.5分，未达阈值
+  - AI替代创意层(@pandatatalk8): 3.2分，未达阈值
+
+## Related
+
+- [[hermes/index]] — Hermes 架构文档总索引

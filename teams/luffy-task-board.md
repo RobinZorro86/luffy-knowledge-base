@@ -129,3 +129,7 @@
 - `luffy-role.md` — Luffy 架构师职责
 - `~/wiki/hermes/teams/zorro-ops/ops-log.md` — Zorro-Ops 执行日志（cron 状态来源）
 - `~/wiki/hermes/teams/zorro-research/tweet-discovery-log.md` — Zorro-Research 日志（推文发现状态来源）
+
+## Related
+
+- [[hermes/index]] — Hermes 架构文档总索引

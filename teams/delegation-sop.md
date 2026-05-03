@@ -102,3 +102,7 @@ Robin 发链接 → Luffy 前置检查 → delegate_task 给 Zorro-Ops → Zorro
 ## 变更记录
 
 - v1.0 (2026-04-14): 初始版本，定义 Luffy 保留任务 / Zorro-Ops/Research/Edu 接管任务
+
+## Related
+
+- [[hermes/index]] — Hermes 架构文档总索引

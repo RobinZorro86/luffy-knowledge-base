@@ -19,6 +19,53 @@ version: v1.1
 
 ---
 
+## ⚠️ 统一入库入口（wiki-archive v3.1）
+
+Zorro-Ops **不直接处理入库**，但在入库质量门禁中承担关键角色：
+
+### Zorro-Ops 的入库相关职责
+
+| 职责 | 说明 |
+|------|------|
+| 维护 `wiki-validate.py` | 确保验证脚本覆盖所有内容类型（推文/视频/论文/文章） |
+| 每日 cron 执行 | 每日 20:00 JST 执行 `wiki-validate.py`，检查所有新入库文件 |
+| 修复阻塞项 | 补齐 frontmatter、修复 malformed YAML、去除 author 前缀 @ |
+| 脚本升级 | 当 wiki-archive 新增内容类型时，同步更新验证规则 |
+
+### wiki-validate.py 覆盖范围（v3.0 要求）
+
+**当前脚本只扫描 `twitter/` 目录近2天文件**，但需要扩展覆盖：
+
+| 目录 | 内容类型 | 脚本检查 | 人工检查 |
+|------|---------|---------|---------|
+| `wiki/twitter/` | 推文 | ✅ 自动 | ✅ |
+| `wiki/videos/` | YouTube 视频 | ❌ 未覆盖 | ✅ 需人工 |
+| `wiki/research/papers/` | arXiv 论文 | ❌ 未覆盖 | ✅ 需人工 |
+| `wiki/articles/` | 一般文章 | ❌ 未覆盖 | ✅ 需人工 |
+| `wiki/research/AI教育/素材库/` | 教育素材 | ❌ 未覆盖 | ✅ 需人工 |
+
+**Zorro-Ops 任务**：逐步扩展 wiki-validate.py 到所有目录，或至少每日人工扫描非 twitter/ 目录的新文件。
+
+### 每日 cron 修复流程（更新版）
+
+当每日 `wiki-validate.py` 报告 ❌ 时：
+
+1. **先修阻塞项**：补齐 title/status/category/tags、修 frontmatter、去除 author 前缀、修复 YAML
+2. **再跑脚本复验**：重新执行 `wiki-validate.py`，直到 ❌ 0
+3. **人工分类复验**：扫描今日修改/新增文件，检查非 twitter/ 目录：
+   - `research/AI教育/素材库/论文/` → category: 论文
+   - `research/AI教育/素材库/文章/` → category: 文章
+   - `research/AI教育/素材库/报告/` → category: 报告
+   - `research/AI教育/素材库/课程案例/` → category: 课程案例
+   - `research/AI教育/素材库/工具与应用/` → category: 工具与应用
+   - `videos/` → source: youtube, type: video
+   - `research/papers/` → source: arxiv, type: paper
+4. **输出报告**：写明脚本汇总、人工分类校验结果、已修复数量、需 Luffy 决策项
+
+**wiki-archive skill 位置**：`~/.hermes/skills/wiki-archive/SKILL.md`
+
+---
+
 ## 核心职责
 
 ### 一、运维职责（系统稳定）

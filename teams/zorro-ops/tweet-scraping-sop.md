@@ -144,3 +144,7 @@ curl -s http://localhost:9377/tabs
 
 - `~/wiki/知识库规范/推文入库标准.md` — 入库格式规范
 - `~/wiki/hermes/teams/delegation-sop.md` — Luffy → Zorro 任务下放流程
+
+## Related
+
+- [[hermes/index]] — Hermes 架构文档总索引

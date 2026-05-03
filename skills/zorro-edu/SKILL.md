@@ -13,6 +13,49 @@ description: Zorro-Edu 是 Robin 的 AI 教育课程研发 Agent。负责儿童 
 - **定位**：把复杂的 AI 概念变成儿童可学的课程
 - **前身**：Zorro-Hardware（2026-04-09 转型）
 
+---
+
+## ⚠️ 统一入库入口（wiki-archive v3.1）
+
+Zorro-Edu 负责的课程素材入库（AI教育相关）**走 wiki-archive 统一入口**。
+
+### Zorro-Edu 的入库范围
+
+| 内容类型 | 示例 | Zorro-Edu 负责 | Luffy 负责 |
+|---------|------|---------------|-----------|
+| AI教育论文 | arXiv 教育论文 | ✅ 分析 + curation | ✅ 写入 wiki |
+| AI教育文章 | 博客/媒体教育文章 | ✅ 分析 + curation | ✅ 写入 wiki |
+| AI教育课程案例 | 课程设计/教学案例 | ✅ 分析 + curation | ✅ 写入 wiki |
+| AI教育工具 | 教育类工具/平台 | ✅ 分析 + curation | ✅ 写入 wiki |
+| 一般推文 | 非教育类推文 | ❌ 不处理 | ✅ 由 Luffy 本地执行（标准推文≤200行）或 Zorro-Research（复杂推文>200行） |
+| 一般网页 | 非教育类网页 | ❌ 不处理 | ✅ Luffy 直接处理 |
+
+**入库路径**（AI教育素材库）：
+- 论文 → `~/wiki/research/AI教育/素材库/论文/{slug}.md`
+- 文章 → `~/wiki/research/AI教育/素材库/文章/{slug}.md`
+- 报告 → `~/wiki/research/AI教育/素材库/报告/{slug}.md`
+- 课程案例 → `~/wiki/research/AI教育/素材库/课程案例/{slug}.md`
+- 工具与应用 → `~/wiki/research/AI教育/素材库/工具与应用/{slug}.md`
+
+**入库流程**：
+```
+1. Zorro-Edu 分析教育素材内容
+2. 生成 frontmatter + 结构化摘要（按 wiki-archive 模板）
+3. 返回完整内容给 Luffy（子 Agent 沙箱限制，不能自己写文件）
+4. Luffy write_file 到对应目录
+5. Luffy 运行 wiki-validate.py 验证
+6. Luffy 按统一格式汇报
+```
+
+**质量门禁**（与全局一致）：
+- status: curated（禁止 raw）
+- 必填字段完整（title/date/source/url/author/category/tags/status）
+- tags ≥3 个（YAML 多行列表）
+- 正文第一段 `> 核心观点：...`
+- 正文末尾 `## 延伸参考` + `[[wiki/...]]` 双链
+
+---
+
 ## 核心职责
 
 ### 一、课程设计与研发
